@@ -1,0 +1,42 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>Second year software engineering students</title>
+        <link rel="stylesheet" href="css/style.css">
+    <link rel="html" href="courses.html">   
+    </head>
+        <body>
+            <div class="main">
+                <style type="text/css">
+                    div{
+                        background: url('Mac.jpg');
+                    }
+                     </style>
+                
+            <div class="navbar">
+                <div class="icon">
+                    <div class="menu">
+                       <ul>                        
+                            <li><a href="index.html">Home  </a></li>
+                            <li><a href="#">   Assignments  </a></li><br><br>
+                            <li><a href="#">Announcments</a></li><br>
+                            <li><a href="schedule.html">Schedule</a></li>
+                            <li><a href="courses.html">Courses</a></li>
+                           </ul>
+                        
+                        </div>
+                        <h2 class="logo">Wachemo University Software Engineering Department </h2>
+                        <div class="cont">
+                            <h1>Second year<br><span>Software Engineering</span><br>Students</h1>
+                        <p class="para">This Website is developed for wachemo university second year software engineering students. Students can find different News and Announcmnts here thank you enjoy the website.</p>                       
+                        <button class="Telegram Group"><a href="#">Join Telegram Group</a></div>
+                    
+                            
+                    </div>
+                </div>  
+              
+            </div>
+            
+       
+            </body>
+    </html>

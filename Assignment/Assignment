@@ -3,7 +3,9 @@
     <head>
         <title>Second year software engineering students</title>
         <link rel="stylesheet" href="css/style.css">
-    <link rel="html" href="courses.html">   
+    <link rel="html" href="courses.html">
+    <link rel="html" href="courses.htmll">
+
     </head>
         <body>
             <div class="main">

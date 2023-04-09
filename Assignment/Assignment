@@ -4,6 +4,11 @@
         <title>Second year software engineering students</title>
 	<link rel="png" type="image/x-icon" herf="wcu-logo.png"/>
     <link rel="html" href="courses.html">
+    <meta charset="UTF-8">
+    <meta name="keywords" content="Wachemo university">
+    <meta name="description" content="wachemo university web page">
+    <meta name="author" content="Kirubel,Samuel, seble">
+
 <..! mukera ..>
     </head>
         <body>

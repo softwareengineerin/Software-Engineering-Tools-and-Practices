@@ -8,7 +8,8 @@
     <meta name="keywords" content="Wachemo university">
     <meta name="description" content="wachemo university web page">
     <meta name="author" content="Kirubel,Samuel, seble">
-    <meta name="viewport" content="with=device-width, initial-scale=1.0"
+    <meta name="viewport" content="with=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css.css">
 <..! mukera ..>
     </head>
         <body>

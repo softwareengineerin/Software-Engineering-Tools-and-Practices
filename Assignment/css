@@ -1,0 +1,118 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.main{
+    
+    width:1400px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:700px;
+
+}
+.navbar{
+    width:1200px;
+    height:75px;
+    margin:auto;
+    background: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+   
+
+}
+.icon{
+    width:0px;
+    float:left;
+    height:70px;
+    background: none;
+}
+.logo{
+    color:#ff7200;
+    font-size: 20px;
+    font-family:Arial;
+    padding-left:5px;
+    float:left;
+    padding-top:0%;
+    background: none;
+}
+.menu{
+    width: 1200px;
+    float: center;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: none;
+}
+ul{
+    float:right;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background: none;
+    text-decoration: none;
+    
+}
+ul li{
+    font-size: 26px;
+    list-style-type: none;
+    display: inline-block;
+    padding:10px 25px;
+    background: transparent;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+    font-family:arial;
+    font-weight:bold;
+    transition:0.4s ease-in-out;
+    background: none;
+}
+ul li a:hover{
+    color:#ff7200;
+    cursor: pointer;
+}
+.cont{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color:white;
+    position:relative;
+    background: none;
+
+}
+.cont.para{
+    padding-left:20px;
+    padding-bottom:25px;
+    font-family: arial;
+    letter-spacing: 1.2px;
+    line-height: 30x;
+    font-size:30px;
+    background: none;
+
+}
+.cont h1{
+    font-family:'Times New Roman' ;
+    font-size:50px;
+    padding-left:20px;
+    margin-top:10%;
+    letter-spacing:2px;
+    background: none;
+}
+.cont span{
+    color:#ff7200;
+    background: none;
+}
+.cont .Telegram Group{
+padding-top: 40px;
+color:#ff7200;
+background: none;
+}
+.cont.Telegram Group:hover{
+    color:#ff7200;
+    cursor: pointer;
+    background: none;
+}

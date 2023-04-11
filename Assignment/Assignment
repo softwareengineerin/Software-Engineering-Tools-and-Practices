@@ -25,9 +25,11 @@
                     <div class="menu">
                        <ul>                        
                             <li><a href="index.html">Home  </a></li>
-                            <li><a href="#">   Assignments  </a></li><br><br>
-                            <li><a href="#">Announcments</a></li><br>
-                            <li><a href="schedule.html">Schedule</a></li>
+                            <li><a href="#">ADMISSION </a></li><br><br>
+			    <li><a href="#">ACADEMICS</a><li><br><br>
+			    <li><a href="#">NEWS AND EVENTS</a></li><br><br>
+                            <li><a href="#">STUDENT LIFE</a></li><br>
+                            <li><a href="schedule.html"></a></li>
                             <li><a href="courses.html">Courses</a></li>
                            </ul>
                         

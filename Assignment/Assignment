@@ -37,7 +37,13 @@
                 </div>  
               
             </div>
-            
+            <pre style="background-color:blue;text-align: center;color: white;font-family: monospace;font-size: 200%;">
+	After writing this line in here,I can go to new line just
+    without using a paragraph or br tag.Because I am inside
+    a pre tag.The pre tag preserves both spaces and line breaks.
+    What you write in HTML editor,will appear exactly in your browser.
+</pre>
+<img height = "900" width = "1300" src="ggs.jpG" alt="This is image"/>
        
             </body>
     </html>
